@@ -6,3 +6,5 @@ Because Dave only understands version control in concept, not in practice. And i
 This is just text. I guess a good step would be learning to incorporate pictures!  Right now I don't see how to do pictures. Looking at Duncan's glossary, it looks like they get embedded with HTML image tags. 
 
 There was something about drag-n-drop, so let's try that:
+
+Well, that didn't work, but it gives me a chance to add some changes to this file, too.
