@@ -12,3 +12,8 @@ Well, it only took 6 tries, but I managed to get an image in here!
 There was something about drag-n-drop, so let's try that:
 
 Well, that didn't work, but it gives me a chance to add some changes to this file, too.
+
+OK, I've added another image, let's link it in: 
+![Gitting It Done](/images/Gitting-it-Done.png)
+
+How about them apples.
