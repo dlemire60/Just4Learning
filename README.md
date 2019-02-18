@@ -1,5 +1,5 @@
 # Just4Learning
-Working to grok GitHub (this is in the working branch of my Just4Learning repo)
+Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
 
 This sentence is only in the new test branch I just made until I merge it!
 
