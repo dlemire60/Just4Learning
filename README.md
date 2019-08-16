@@ -22,3 +22,5 @@ OK, I've added another image, let's link it in:
 How about them apples.
 
 Adding something to this branch on GH to try out fetch / merge on the local clone.
+
+And something more!
