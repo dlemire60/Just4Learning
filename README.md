@@ -1,5 +1,6 @@
 # Just4Learning
-Working to grok GitHub (this text is being added to branch testing123)
+
+Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
 
 A quick edit to test my copied repo.
 
