@@ -1,5 +1,7 @@
 # Just4Learning
 
+OK, created release and working branches to work out the process for doing our OpenC2 WD release action.
+
 Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
 
 A quick edit to test my copied repo.
