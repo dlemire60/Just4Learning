@@ -1,6 +1,6 @@
 # Just4Learning
 
-OK, created release and working branches to work out the process for doing our OpenC2 WD release action.
+OK, created release and working branches to work out the process for doing our OpenC2 WD release action. And now another minor tweak to get my steps right for _Doc Norms_.
 
 Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
 
