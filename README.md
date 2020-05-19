@@ -10,6 +10,10 @@ And another change to confirm my GH login info is really in VS-Code.
 
 A quick edit to test my copied repo.
 
+## A Dummy Branch
+
+Should appear in the new branch, only.
+
 This sentence is only in the new test branch I just made until I merge it!
 
 Because Dave only understands version control in concept, not in practice. And it seems like I ought to be able to do better. So now I've installed the desktop (built on Electron) and am trying things out locally.
