@@ -2,6 +2,10 @@
 
 Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
 
+## Editing in Ubunutu
+
+A quick test to confirm I can clone / edit /push changes from the new Ubuntu VM.
+
 A quick edit to test my copied repo.
 
 This sentence is only in the new test branch I just made until I merge it!
