@@ -6,6 +6,8 @@ Working to grok GitHub (this is in the working branch of my Just4Learning repo; 
 
 A quick test to confirm I can clone / edit /push changes from the new Ubuntu VM.
 
+And another change to confirm my GH login info is really in VS-Code.
+
 A quick edit to test my copied repo.
 
 This sentence is only in the new test branch I just made until I merge it!
