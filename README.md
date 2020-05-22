@@ -2,6 +2,10 @@
 
 Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
 
+## Playing with GH Page Themes
+
+A link to [A Subordinate Page](NewPage.md)
+
 ## Editing in Ubunutu
 
 A quick test to confirm I can clone / edit /push changes from the new Ubuntu VM.
