@@ -1,6 +1,6 @@
 # Just4Learning
 
-Working to grok GitHub (this is in the working branch of my Just4Learning repo; and this edit was made locally)
+Working to grok GitHub (this is in the <u>working branch</u> of my Just4Learning repo; and this edit was made locally)
 
 ## Playing with GH Page Themes
 
