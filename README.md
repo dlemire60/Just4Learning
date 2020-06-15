@@ -33,37 +33,37 @@ GH
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-4f0n" colspan="3"></th>
+    <th class="tg-4f0n" colspan="3">Fixed Header</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">A</td>
+    <td class="tg-c3ow">B</td>
+    <td class="tg-c3ow">C</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">D</td>
+    <td class="tg-c3ow">E/td>
+    <td class="tg-c3ow">F</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">G</td>
+    <td class="tg-c3ow">H</td>
+    <td class="tg-c3ow">I</td>
   </tr>
   <tr>
-    <td class="tg-dg6o" colspan="3"></td>
+    <td class="tg-dg6o" colspan="3">Variable Header</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">j</td>
+    <td class="tg-0lax">k</td>
+    <td class="tg-0lax">l</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">m</td>
+    <td class="tg-0lax">n</td>
+    <td class="tg-0lax">o</td>
   </tr>
 </tbody>
 </table>
