@@ -20,57 +20,78 @@ Seeing how an HTML table embedded in my Markdown renders on
 GH
 
 
-<table class="tg">
+<table>
 <thead>
-  <tr background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top>
-    <th  colspan="3">Fixed Header</th>
+  <tr>
+    <th colspan="2">Fixed Header</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top>A</td>
-    <td class="tg-c3ow">B</td>
-    <td class="tg-c3ow">C</td>
+    <td>Type</td>
+    <td>PUBLISH</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">D</td>
-    <td class="tg-c3ow">E</td>
-    <td class="tg-c3ow">F</td>
+    <td>DuP</td>
+    <td>0</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">G</td>
-    <td class="tg-c3ow">H</td>
-    <td class="tg-c3ow">I</td>
+    <td>QoS</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td class="tg-dg6o" colspan="3">Variable Header</td>
+    <td>Retain</td>
+    <td>0</td>
   </tr>
   <tr>
-    <td class="tg-0lax">j</td>
-    <td class="tg-0lax">k</td>
-    <td class="tg-0lax">l</td>
+    <td> Remaining Length</td>
+    <td>[Computed]]</td>
   </tr>
   <tr>
-    <td class="tg-0lax">m</td>
-    <td class="tg-0lax">n</td>
-    <td class="tg-0lax">o</td>
+    <td colspan="2">Variable Header</td>
+  </tr>
+  <tr>
+    <td>Topic Name: </td>
+    <td>oc2/cmd/device_type/alpha</td>
+  </tr>
+  <tr>
+    <td>Packet Identifier: </td>
+    <td>1234</td>
+  </tr>
+<tr>
+    <td colspan="2">Payload</td>
+  </tr>
+  <tr>
+    <td>Content:</td>
+    <td>request (JSON-encoded OpenC2 command)
+{
+    "action": "contain",
+    "target": {
+        "device": {
+            "device_id": "9BCE8431AC106FAA3861C7E771D20E53"
+        }
+    }
+}</td>
+  </tr>
+  <tr>
+    <td>request_id: </td>
+    <td>d1ac0489-ed51-4345-9175-f3078f30afe5</td>
+  </tr>
+  <tr>
+    <td>created: </td>
+    <td>Wed, 19 Dec 2018 22:15:00 GMT</td>
+  </tr>
+  <tr>
+    <td>from: </td>
+    <td>producer_one</td>
   </tr>
 </tbody>
 </table>
 
-```
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-dg6o{background-color:#000000;color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-4f0n{background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-```
+
+
+
+
 
 ## A Dummy Branch
 
