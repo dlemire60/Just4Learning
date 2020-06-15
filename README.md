@@ -19,6 +19,8 @@ A quick edit to test my copied repo.
 Seeing how an HTML table embedded in my Markdown renders on
 GH
 
+
+<table class="tg">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -30,7 +32,6 @@ GH
 .tg .tg-4f0n{background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
 <thead>
   <tr>
     <th class="tg-4f0n" colspan="3">Fixed Header</th>
@@ -44,7 +45,7 @@ GH
   </tr>
   <tr>
     <td class="tg-c3ow">D</td>
-    <td class="tg-c3ow">E/td>
+    <td class="tg-c3ow">E</td>
     <td class="tg-c3ow">F</td>
   </tr>
   <tr>
