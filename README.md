@@ -21,17 +21,6 @@ GH
 
 
 <table class="tg">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-dg6o{background-color:#000000;color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-4f0n{background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <thead>
   <tr>
     <th background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top colspan="3">Fixed Header</th>
@@ -68,6 +57,18 @@ GH
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-dg6o{background-color:#000000;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-4f0n{background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 
 ## A Dummy Branch
 
