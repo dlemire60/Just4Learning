@@ -34,7 +34,7 @@ GH
 </style>
 <thead>
   <tr>
-    <th class="tg-4f0n" colspan="3">Fixed Header</th>
+    <th background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top colspan="3">Fixed Header</th>
   </tr>
 </thead>
 <tbody>
