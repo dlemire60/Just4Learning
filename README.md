@@ -22,13 +22,13 @@ GH
 
 <table class="tg">
 <thead>
-  <tr>
-    <th background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top colspan="3">Fixed Header</th>
+  <tr background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top>
+    <th  colspan="3">Fixed Header</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">A</td>
+    <td background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top>A</td>
     <td class="tg-c3ow">B</td>
     <td class="tg-c3ow">C</td>
   </tr>
@@ -58,6 +58,7 @@ GH
 </tbody>
 </table>
 
+```
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -69,6 +70,7 @@ GH
 .tg .tg-4f0n{background-color:#000000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+```
 
 ## A Dummy Branch
 
