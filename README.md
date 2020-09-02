@@ -8,8 +8,6 @@ A link to [A Subordinate Page](NewPage.md)
 
 ## Editing in Ubunutu
 
-A quick test to confirm I can clone / edit /push changes from the new Ubuntu VM.
-
 And another change to confirm my GH login info is really in VS-Code.
 
 A quick edit to test my copied repo.
