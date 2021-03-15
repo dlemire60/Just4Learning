@@ -1,6 +1,6 @@
 # Just4Learning
 
-Working to grok GitHub (this is in the <u>working branch</u> of my Just4Learning repo; and this edit was made locally). Can we do color?  <span style="color:blue">some *blue* text</span>.
+Working to grok GitHub (this is in the <u>working branch</u> of my Just4Learning repo; and this edit was made locally). Can we do color?  <span style="color:red">some *blue* text</span>.
 
 ## Playing with GH Page Themes
 
