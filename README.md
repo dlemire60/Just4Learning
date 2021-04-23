@@ -87,9 +87,9 @@ GH
 </table>
 
 
+## Branching in VSCode
 
-
-
+Created a new branch on the laptop in VSCode (easy).  Now need to figure out how to push it to GitHub.
 
 ## A Dummy Branch
 
