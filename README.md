@@ -91,6 +91,10 @@ GH
 
 Created a new branch on the laptop in VSCode (easy).  Now need to figure out how to push it to GitHub.
 
+Simple push didn't work: "no upstream configured for branch `BMTest`".  :-(
+
+OK, turns out it worked after all!
+
 ## A Dummy Branch
 
 Should appear in the new branch, only.
