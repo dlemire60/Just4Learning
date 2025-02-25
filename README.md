@@ -109,7 +109,7 @@ Making a local change in parallel with a remote change.
 
 Well, it only took 6 tries, but I managed to get an image in here!
 
-![All the Bad Luck](/images/All-the-bad-luck.jpg)
+![All the Bad Luck](./images/All-the-bad-luck.jpg)
 <figcaption>
 
 ### Figure Bad-Luck: "Image of a man taking ALL the chances"
@@ -120,7 +120,7 @@ Well, it only took 6 tries, but I managed to get an image in here!
 
 <figure>
   <figcaption>Image of a man taking ALL of the chances"</figcaption>
-  <img src="/images/All-the-bad-luck.jpg"">
+  <img src="./images/All-the-bad-luck.jpg"">
 </figure>
 
 ---
@@ -131,7 +131,7 @@ Well, that didn't work, but it gives me a chance to add some changes to this fil
 
 OK, I've added another image, let's link it in: 
 (turns out it works better if you get the filename right)
-![Gitting It Done](/images/Gitting-It-Done.png)
+![Gitting It Done](./images/Gitting-It-Done.png)
 
 How about them apples.
 
