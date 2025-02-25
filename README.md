@@ -87,6 +87,24 @@ GH
 </table>
 
 
+## Applying OASIS code snippet formatting
+
+<hr>
+
+**Code 3.1** This is a code example
+
+<hr>
+
+```json
+{
+  "key1":"value1"
+  "key2":9999
+}
+```
+
+<hr>
+
+
 ## Branching in VSCode
 
 Created a new branch on the laptop in VSCode (easy).  Now need to figure out how to push it to GitHub.
