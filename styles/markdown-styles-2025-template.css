@@ -46,6 +46,8 @@ html{overflow-x:auto}
 /* style for gray "OASIS Committee Note" text */
 h1gray{font-size:18pt;font-family: LiberationSans, Arial, Helvetica, sans-serif;font-weight: bold;color: #717171}
 
+/* dl 2025-02-25 test fig caption style */
+	 figcaption{font-family:serif;font-weight: bold; color:crimson; text-align: center;}
 	
 /* style for hr to insert a page break before each ruled line (generated in markdown by 3 or more hyphens alone on a line) */
 	hr{page-break-before: always;}
