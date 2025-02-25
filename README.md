@@ -87,6 +87,27 @@ GH
 </table>
 
 
+
+<hr>
+
+**Code snippet number** Code Snippet Title
+
+<hr>
+
+```language
+
+snippet content
+
+```
+
+<hr>
+
+
+
+
+
+
+
 ## Applying OASIS code snippet formatting
 
 <hr>
