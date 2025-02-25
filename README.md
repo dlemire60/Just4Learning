@@ -116,6 +116,15 @@ Well, it only took 6 tries, but I managed to get an image in here!
 
 </figcaption>
 
+---
+
+<figure>
+  <figcaption>Image of a man taking ALL of the chances"</figcaption>
+  <img src="/images/All-the-bad-luck.jpg" style="width:80%">
+</figure>
+
+---
+
 There was something about drag-n-drop, so let's try that:
 
 Well, that didn't work, but it gives me a chance to add some changes to this file, too.
