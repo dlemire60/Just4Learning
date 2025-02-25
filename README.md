@@ -112,7 +112,7 @@ Well, it only took 6 tries, but I managed to get an image in here!
 ![All the Bad Luck](/images/All-the-bad-luck.jpg)
 <figcaption>
 
-**"Image of a man taking ALL the chances"**
+**Figure Bad-Luck: "Image of a man taking ALL the chances"**
 
 </figcaption>
 
