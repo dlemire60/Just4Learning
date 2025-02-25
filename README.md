@@ -119,7 +119,7 @@ Well, it only took 6 tries, but I managed to get an image in here!
 ---
 
 <figure>
-  <figcaption><em>Image of a man taking ALL of the chances"</em></figcaption>
+  <figcaption>Image of a man taking ALL of the chances"</figcaption>
   <img src="/images/All-the-bad-luck.jpg"">
 </figure>
 
