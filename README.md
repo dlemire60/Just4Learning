@@ -110,7 +110,11 @@ Making a local change in parallel with a remote change.
 Well, it only took 6 tries, but I managed to get an image in here!
 
 ![All the Bad Luck](/images/All-the-bad-luck.jpg)
-<figcaption>"Image of a man taking ALL the chances"</figcaption>
+<figcaption>
+
+**"Image of a man taking ALL the chances"**
+
+</figcaption>
 
 There was something about drag-n-drop, so let's try that:
 
